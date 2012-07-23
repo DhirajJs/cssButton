@@ -13,4 +13,14 @@ cssButton
     </button>
 ```
 * **Cross-Browser CSS Gradient button** 
+
+     Only CSS ( no image used nor Javascript magic).
+     
+     The gradient is cross-browser supported (IE, Firefox 3.6, Chrome, and Safari).
+     
+     [Visite colorzilla](http://www.colorzilla.com/gradient-editor/)
+     
+     Flexible and scalable
+     
+     Fallback: if CSS3 is not supported, it will display a regular button (no gradient and shadow).
            
