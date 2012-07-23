@@ -10,5 +10,5 @@ cssButton
 					<span>Click Me</span>
 				</span>
 		</button>
-* ** Cross-Browser CSS Gradient button** 
+* **Cross-Browser CSS Gradient button** 
            
