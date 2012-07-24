@@ -11,6 +11,18 @@ cssButton
            <span>Click Me</span>
         </span>
     </button>
+    <style>
+    .button {
+     color: #FFF;
+    	border: none;
+    	font-size: 0.625em;
+    	padding: 0.625em 0.5em;	
+    }
+    
+    .button span > span{
+    	text-shadow: 1px 1px 0 #67A854;
+    }
+  </style>  
 ```
 * **Cross-Browser CSS Gradient button** 
 
@@ -24,3 +36,10 @@ cssButton
      
      Fallback: if CSS3 is not supported, it will display a regular button (no gradient and shadow).
            
+    ```html
+    <button type="submit" title="Click Me" class=""button css3-gradient normal">
+        <span>
+           <span>Click Me</span>
+        </span>
+    </button>
+   ```
