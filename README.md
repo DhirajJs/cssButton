@@ -40,6 +40,7 @@ cssButton
            <span>Click Me</span>
         </span>
     </button>
+    <style>
     .button.css3-gradient {
         background: rgb(80,135,52) no-repeat; /* Old browsers */
        	/* IE9 SVG, needs conditional override of 'filter' to 'none' */
@@ -51,4 +52,6 @@ cssButton
        	background-image: -ms-linear-gradient(top,  rgba(80,135,52,1) 0%,rgba(103,168,84,1) 100%); /* IE10+ */
        	background-image: linear-gradient(to bottom,  rgba(80,135,52,1) 0%,rgba(103,168,84,1) 100%); /* W3C */
        	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#508734', endColorstr='#67a854',GradientType=0 ); /* IE6-8 */ }
+    <style>
+   
    ```
